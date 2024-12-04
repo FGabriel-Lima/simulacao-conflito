@@ -1,3 +1,4 @@
 # simulacao-conflito
 # Mariana Pereira 
-adicionando linha 1
+adicionando linha
+adicionando linha da nova branch (Gabriel)
