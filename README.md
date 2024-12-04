@@ -1,1 +1,2 @@
 # simulacao-conflito
+# Mariana Pereira 
