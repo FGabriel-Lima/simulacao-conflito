@@ -1,3 +1,3 @@
 # simulacao-conflito
 # Mariana Pereira 
-adiciondo linha 1
+adicionando linha 1
